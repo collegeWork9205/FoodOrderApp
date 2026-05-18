@@ -16,4 +16,4 @@ export const assets ={
     image
 }
 
-export const url = 'https://foodorderapp-modi.onrender.com'
+export const url = 'https://foodorderapp-backend-ov5x.onrender.com'
