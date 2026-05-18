@@ -30,4 +30,4 @@ const verify = () => {
   )
 }
 
-export default verify
+export default Verify
