@@ -16,4 +16,4 @@ export const assets ={
     image
 }
 
-export const url = 'http://localhost:4000'
+export const url = 'https://foodorderapp-modi.onrender.com'
